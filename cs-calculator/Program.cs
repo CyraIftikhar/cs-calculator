@@ -20,4 +20,8 @@ if (op == "+")
 else if (op == "*")
 { Console.WriteLine(num1 * num2);
 }
+else
+{
+Console.WriteLine("Invalid Operator");
+}
 Console.ReadLine();
