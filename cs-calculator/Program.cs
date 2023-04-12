@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Enter a number: ");
+﻿Console.WriteLine("Enter a number: ");
 double num1 = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Enter Operator: ");
